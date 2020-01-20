@@ -8,5 +8,5 @@ Ajoutons une ligne
 Puis une autre
 
 Enfin une dernière
-Ceci est un eit apres la creation de la branche readme_edits
+Ceci est un edit apres la creation de la branche readme_edits
 =======
